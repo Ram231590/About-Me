@@ -125,36 +125,6 @@ body {
     margin : .5vw;
 }
 
-@media only screen and (min-width: 767px) and (max-width :1024px){
-    .banner{
-        display: flex;
-        flex-direction: column;
-    }
 
-    .card{
-        display:flex;
-        flex-direction: row;
-        align-items: center;
-    }
-
-    .my-image {
-        width: 25vw;
-        height: 25vw;
-    }
-
-    .tech-icon{
-        width:19vw;
-        
-    }
-
-    .project-details{
-        width:30vw;
-    }
-    .contact-icon{
-        height:6vw;
-        width:6vw;
-    }
-
-
-}
+    
 
